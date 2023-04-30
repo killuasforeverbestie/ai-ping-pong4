@@ -1,0 +1,17 @@
+body
+{
+
+}
+
+h4{
+background-color: aqua;
+line-height: 2;
+margin: 0px;
+}
+
+.modal-dialog{
+width: 90%;
+}
+canvas{
+background-color: rgb(43, 160, 45);
+}
